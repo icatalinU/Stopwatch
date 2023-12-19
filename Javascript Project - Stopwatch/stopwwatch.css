@@ -1,0 +1,56 @@
+body{
+
+    height: 100vh;
+    background: url(./pexels-tuesday-temptation-3780104.jpg) no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container{
+
+    width: 50%;
+    height:250px;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    box-shadow: 0 0 3px;
+}
+
+#timer {
+     
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        width: auto;
+        font-size: 72px;
+        text-align: center;
+        margin: 0 auto;
+        padding: 55px;
+    }
+    
+ 
+.button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 15px;
+}
+
+.buttons{
+    text-align: center;
+    display: flex;
+     border: none;
+    justify-content: center;  
+
+}
+ 
+ 
+ 
+ 
